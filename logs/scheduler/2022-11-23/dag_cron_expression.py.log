@@ -2228,3 +2228,45 @@
 [2022-11-23T13:58:55.992+0000] {logging_mixin.py:137} INFO - [2022-11-23T13:58:55.991+0000] {dag.py:2585} INFO - Sync 1 DAGs
 [2022-11-23T13:58:56.035+0000] {logging_mixin.py:137} INFO - [2022-11-23T13:58:56.035+0000] {dag.py:3340} INFO - Setting next_dagrun for dag_cron_expression_v1 to 2022-11-01T12:00:00+00:00, run_after=2022-11-02T12:00:00+00:00
 [2022-11-23T13:58:56.070+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_cron_expression.py took 0.162 seconds
+[2022-11-23T13:59:26.809+0000] {processor.py:154} INFO - Started process (PID=16784) to work on /opt/airflow/dags/dag_cron_expression.py
+[2022-11-23T13:59:26.818+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_cron_expression.py for tasks to queue
+[2022-11-23T13:59:26.819+0000] {logging_mixin.py:137} INFO - [2022-11-23T13:59:26.819+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_cron_expression.py
+[2022-11-23T13:59:26.853+0000] {processor.py:766} INFO - DAG(s) dict_keys(['dag_cron_expression_v1']) retrieved from /opt/airflow/dags/dag_cron_expression.py
+[2022-11-23T13:59:26.969+0000] {logging_mixin.py:137} INFO - [2022-11-23T13:59:26.968+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-23T13:59:27.031+0000] {logging_mixin.py:137} INFO - [2022-11-23T13:59:27.031+0000] {dag.py:3340} INFO - Setting next_dagrun for dag_cron_expression_v1 to 2022-11-01T12:00:00+00:00, run_after=2022-11-02T12:00:00+00:00
+[2022-11-23T13:59:27.071+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_cron_expression.py took 0.266 seconds
+[2022-11-23T13:59:57.285+0000] {processor.py:154} INFO - Started process (PID=16833) to work on /opt/airflow/dags/dag_cron_expression.py
+[2022-11-23T13:59:57.287+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_cron_expression.py for tasks to queue
+[2022-11-23T13:59:57.288+0000] {logging_mixin.py:137} INFO - [2022-11-23T13:59:57.288+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_cron_expression.py
+[2022-11-23T13:59:57.315+0000] {processor.py:766} INFO - DAG(s) dict_keys(['dag_cron_expression_v1']) retrieved from /opt/airflow/dags/dag_cron_expression.py
+[2022-11-23T13:59:57.377+0000] {logging_mixin.py:137} INFO - [2022-11-23T13:59:57.377+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-23T13:59:57.423+0000] {logging_mixin.py:137} INFO - [2022-11-23T13:59:57.423+0000] {dag.py:3340} INFO - Setting next_dagrun for dag_cron_expression_v1 to 2022-11-01T12:00:00+00:00, run_after=2022-11-02T12:00:00+00:00
+[2022-11-23T13:59:57.464+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_cron_expression.py took 0.186 seconds
+[2022-11-23T14:00:27.971+0000] {processor.py:154} INFO - Started process (PID=16889) to work on /opt/airflow/dags/dag_cron_expression.py
+[2022-11-23T14:00:27.972+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_cron_expression.py for tasks to queue
+[2022-11-23T14:00:27.973+0000] {logging_mixin.py:137} INFO - [2022-11-23T14:00:27.973+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_cron_expression.py
+[2022-11-23T14:00:28.008+0000] {processor.py:766} INFO - DAG(s) dict_keys(['dag_cron_expression_v1']) retrieved from /opt/airflow/dags/dag_cron_expression.py
+[2022-11-23T14:00:28.091+0000] {logging_mixin.py:137} INFO - [2022-11-23T14:00:28.090+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-23T14:00:28.160+0000] {logging_mixin.py:137} INFO - [2022-11-23T14:00:28.160+0000] {dag.py:3340} INFO - Setting next_dagrun for dag_cron_expression_v1 to 2022-11-01T12:00:00+00:00, run_after=2022-11-02T12:00:00+00:00
+[2022-11-23T14:00:28.203+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_cron_expression.py took 0.240 seconds
+[2022-11-23T14:00:58.451+0000] {processor.py:154} INFO - Started process (PID=16936) to work on /opt/airflow/dags/dag_cron_expression.py
+[2022-11-23T14:00:58.453+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_cron_expression.py for tasks to queue
+[2022-11-23T14:00:58.454+0000] {logging_mixin.py:137} INFO - [2022-11-23T14:00:58.454+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_cron_expression.py
+[2022-11-23T14:00:58.494+0000] {processor.py:766} INFO - DAG(s) dict_keys(['dag_cron_expression_v1']) retrieved from /opt/airflow/dags/dag_cron_expression.py
+[2022-11-23T14:00:58.575+0000] {logging_mixin.py:137} INFO - [2022-11-23T14:00:58.574+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-23T14:00:58.643+0000] {logging_mixin.py:137} INFO - [2022-11-23T14:00:58.642+0000] {dag.py:3340} INFO - Setting next_dagrun for dag_cron_expression_v1 to 2022-11-01T12:00:00+00:00, run_after=2022-11-02T12:00:00+00:00
+[2022-11-23T14:00:58.686+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_cron_expression.py took 0.242 seconds
+[2022-11-23T14:01:29.354+0000] {processor.py:154} INFO - Started process (PID=16983) to work on /opt/airflow/dags/dag_cron_expression.py
+[2022-11-23T14:01:29.358+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_cron_expression.py for tasks to queue
+[2022-11-23T14:01:29.363+0000] {logging_mixin.py:137} INFO - [2022-11-23T14:01:29.362+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_cron_expression.py
+[2022-11-23T14:01:29.401+0000] {processor.py:766} INFO - DAG(s) dict_keys(['dag_cron_expression_v1']) retrieved from /opt/airflow/dags/dag_cron_expression.py
+[2022-11-23T14:01:29.533+0000] {logging_mixin.py:137} INFO - [2022-11-23T14:01:29.533+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-23T14:01:29.629+0000] {logging_mixin.py:137} INFO - [2022-11-23T14:01:29.628+0000] {dag.py:3340} INFO - Setting next_dagrun for dag_cron_expression_v1 to 2022-11-01T12:00:00+00:00, run_after=2022-11-02T12:00:00+00:00
+[2022-11-23T14:01:29.695+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_cron_expression.py took 0.349 seconds
+[2022-11-23T14:02:00.500+0000] {processor.py:154} INFO - Started process (PID=17041) to work on /opt/airflow/dags/dag_cron_expression.py
+[2022-11-23T14:02:00.501+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/dag_cron_expression.py for tasks to queue
+[2022-11-23T14:02:00.503+0000] {logging_mixin.py:137} INFO - [2022-11-23T14:02:00.502+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/dag_cron_expression.py
+[2022-11-23T14:02:00.531+0000] {processor.py:766} INFO - DAG(s) dict_keys(['dag_cron_expression_v1']) retrieved from /opt/airflow/dags/dag_cron_expression.py
+[2022-11-23T14:02:00.597+0000] {logging_mixin.py:137} INFO - [2022-11-23T14:02:00.596+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-23T14:02:00.645+0000] {logging_mixin.py:137} INFO - [2022-11-23T14:02:00.645+0000] {dag.py:3340} INFO - Setting next_dagrun for dag_cron_expression_v1 to 2022-11-01T12:00:00+00:00, run_after=2022-11-02T12:00:00+00:00
+[2022-11-23T14:02:00.682+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/dag_cron_expression.py took 0.186 seconds
